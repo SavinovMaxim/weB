@@ -1,3 +1,5 @@
+<?php
+
 function increaseEnthusiasm($str)
 {
     return $str . "!";

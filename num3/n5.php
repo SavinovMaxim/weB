@@ -1,3 +1,5 @@
+<?php
+
 $myNum = 10;
 $answer = $myNum;
 

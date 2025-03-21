@@ -1,3 +1,5 @@
+<?php
+
 function printStringReturnNumber()
 {
     echo "Это строка, которую печатает функция.\n";

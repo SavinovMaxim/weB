@@ -1,9 +1,8 @@
-/* Imagine a lot of code here */
+<?php
+
 $very_bad_unclear_name = "15 chicken wings";
 
-// Write your code here:
-$order = &$very_bad_unclear_name; // Объявляем $order как ссылку на $very_bad_unclear_name
-$order .= " I like it"; // Добавляем строку к $order
+$order = &$very_bad_unclear_name; 
+$order .= " I like it"; 
 
-// Don't change the line below
 echo "\nYour order is: $very_bad_unclear_name.";

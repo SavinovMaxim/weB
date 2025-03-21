@@ -1,3 +1,5 @@
+<?php
+
 $numLanguages = 4; // Ruby, Python, JavaScript, C++
 $months = 11;
 
